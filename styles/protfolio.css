@@ -116,3 +116,7 @@ main{
 .item-dis{
     font-weight: 600;
 }
+.skill-item{
+    display: flex;
+    justify-content: center;
+}
