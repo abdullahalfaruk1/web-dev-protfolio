@@ -60,8 +60,20 @@ nav ul a{
 .text-color{
     color: #474747;
 }
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #1E1E1E;
+}
+.section-des{
+    font-size:18px;
+    color: #757575;
 
+}
 /* banner-style */
+.secondaary-bg{
+    background-color: #fff9f3;
+}
 .banner-gre{
  font-size: 45px;
  font-weight: 600;
@@ -84,4 +96,23 @@ nav ul a{
 }
 .banner-content{
     max-width: 580px;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 130px;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    margin:;
+}
+.item-dis{
+    font-weight: 600;
 }
